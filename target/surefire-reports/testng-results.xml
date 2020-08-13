@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="279967" started-at="2020-08-13T16:06:01 IST" finished-at="2020-08-13T16:10:41 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="279967" started-at="2020-08-13T16:06:01 IST" finished-at="2020-08-13T16:10:41 IST">
+      <class name="com.automationFramework.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="contacts()[pri:0, instance:com.automationFramework.testcases.ContactsPageTest@4b952a2d]" name="contacts" is-config="true" duration-ms="17809" started-at="2020-08-13T16:07:13 IST" finished-at="2020-08-13T16:07:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts -->
+        <test-method status="PASS" signature="verifycontactsTest()[pri:1, instance:com.automationFramework.testcases.ContactsPageTest@4b952a2d]" name="verifycontactsTest" duration-ms="56" started-at="2020-08-13T16:07:31 IST" finished-at="2020-08-13T16:07:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycontactsTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.ContactsPageTest@4b952a2d]" name="close" is-config="true" duration-ms="754" started-at="2020-08-13T16:07:31 IST" finished-at="2020-08-13T16:07:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="contacts()[pri:0, instance:com.automationFramework.testcases.ContactsPageTest@4b952a2d]" name="contacts" is-config="true" duration-ms="19548" started-at="2020-08-13T16:07:32 IST" finished-at="2020-08-13T16:07:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts -->
+        <test-method status="PASS" signature="newcontactlinkTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.automationFramework.testcases.ContactsPageTest@4b952a2d]" name="newcontactlinkTest" duration-ms="4582" started-at="2020-08-13T16:07:52 IST" data-provider="getCRMTestData" finished-at="2020-08-13T16:07:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Miss]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kalu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kav]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[InSearch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newcontactlinkTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.ContactsPageTest@4b952a2d]" name="close" is-config="true" duration-ms="672" started-at="2020-08-13T16:07:57 IST" finished-at="2020-08-13T16:07:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="contacts()[pri:0, instance:com.automationFramework.testcases.ContactsPageTest@4b952a2d]" name="contacts" is-config="true" duration-ms="18559" started-at="2020-08-13T16:07:57 IST" finished-at="2020-08-13T16:08:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts -->
+        <test-method status="PASS" signature="newcontactlinkTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.automationFramework.testcases.ContactsPageTest@4b952a2d]" name="newcontactlinkTest" duration-ms="4040" started-at="2020-08-13T16:08:16 IST" data-provider="getCRMTestData" finished-at="2020-08-13T16:08:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dr.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ramesh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kundra]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Google]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newcontactlinkTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.ContactsPageTest@4b952a2d]" name="close" is-config="true" duration-ms="661" started-at="2020-08-13T16:08:20 IST" finished-at="2020-08-13T16:08:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="contacts()[pri:0, instance:com.automationFramework.testcases.ContactsPageTest@4b952a2d]" name="contacts" is-config="true" duration-ms="16564" started-at="2020-08-13T16:08:20 IST" finished-at="2020-08-13T16:08:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts -->
+        <test-method status="PASS" signature="newcontactlinkTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.automationFramework.testcases.ContactsPageTest@4b952a2d]" name="newcontactlinkTest" duration-ms="3505" started-at="2020-08-13T16:08:37 IST" data-provider="getCRMTestData" finished-at="2020-08-13T16:08:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Prof.]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rana]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Daguubati]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Amazon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newcontactlinkTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.ContactsPageTest@4b952a2d]" name="close" is-config="true" duration-ms="767" started-at="2020-08-13T16:08:41 IST" finished-at="2020-08-13T16:08:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.automationFramework.testcases.ContactsPageTest -->
+      <class name="com.automationFramework.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.automationFramework.testcases.LoginPageTest@73846619]" name="setUP" is-config="true" duration-ms="10535" started-at="2020-08-13T16:10:02 IST" finished-at="2020-08-13T16:10:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.automationFramework.testcases.LoginPageTest@73846619]" name="loginPageTitleTest" duration-ms="6" started-at="2020-08-13T16:10:13 IST" finished-at="2020-08-13T16:10:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.LoginPageTest@73846619]" name="close" is-config="true" duration-ms="694" started-at="2020-08-13T16:10:13 IST" finished-at="2020-08-13T16:10:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.automationFramework.testcases.LoginPageTest@73846619]" name="setUP" is-config="true" duration-ms="10413" started-at="2020-08-13T16:10:14 IST" finished-at="2020-08-13T16:10:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="loginPagelogo()[pri:2, instance:com.automationFramework.testcases.LoginPageTest@73846619]" name="loginPagelogo" duration-ms="71" started-at="2020-08-13T16:10:24 IST" finished-at="2020-08-13T16:10:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPagelogo -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.LoginPageTest@73846619]" name="close" is-config="true" duration-ms="725" started-at="2020-08-13T16:10:24 IST" finished-at="2020-08-13T16:10:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.automationFramework.testcases.LoginPageTest@73846619]" name="setUP" is-config="true" duration-ms="10226" started-at="2020-08-13T16:10:25 IST" finished-at="2020-08-13T16:10:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="crmlogin()[pri:3, instance:com.automationFramework.testcases.LoginPageTest@73846619]" name="crmlogin" duration-ms="5226" started-at="2020-08-13T16:10:35 IST" finished-at="2020-08-13T16:10:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmlogin -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.LoginPageTest@73846619]" name="close" is-config="true" duration-ms="680" started-at="2020-08-13T16:10:40 IST" finished-at="2020-08-13T16:10:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.automationFramework.testcases.LoginPageTest -->
+      <class name="com.automationFramework.testcases.HomePageTest">
+        <test-method status="PASS" signature="HP()[pri:0, instance:com.automationFramework.testcases.HomePageTest@3159c4b8]" name="HP" is-config="true" duration-ms="18625" started-at="2020-08-13T16:08:41 IST" finished-at="2020-08-13T16:09:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HP -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.automationFramework.testcases.HomePageTest@3159c4b8]" name="verifyHomePageTitleTest" duration-ms="5016" started-at="2020-08-13T16:09:00 IST" finished-at="2020-08-13T16:09:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.HomePageTest@3159c4b8]" name="close" is-config="true" duration-ms="694" started-at="2020-08-13T16:09:05 IST" finished-at="2020-08-13T16:09:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="HP()[pri:0, instance:com.automationFramework.testcases.HomePageTest@3159c4b8]" name="HP" is-config="true" duration-ms="18148" started-at="2020-08-13T16:09:06 IST" finished-at="2020-08-13T16:09:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HP -->
+        <test-method status="PASS" signature="verifyDisplayNameTest()[pri:2, instance:com.automationFramework.testcases.HomePageTest@3159c4b8]" name="verifyDisplayNameTest" duration-ms="87" started-at="2020-08-13T16:09:24 IST" finished-at="2020-08-13T16:09:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDisplayNameTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.HomePageTest@3159c4b8]" name="close" is-config="true" duration-ms="686" started-at="2020-08-13T16:09:24 IST" finished-at="2020-08-13T16:09:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="HP()[pri:0, instance:com.automationFramework.testcases.HomePageTest@3159c4b8]" name="HP" is-config="true" duration-ms="15988" started-at="2020-08-13T16:09:25 IST" finished-at="2020-08-13T16:09:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HP -->
+        <test-method status="PASS" signature="clickoncontacts()[pri:3, instance:com.automationFramework.testcases.HomePageTest@3159c4b8]" name="clickoncontacts" duration-ms="1515" started-at="2020-08-13T16:09:41 IST" finished-at="2020-08-13T16:09:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickoncontacts -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.HomePageTest@3159c4b8]" name="close" is-config="true" duration-ms="689" started-at="2020-08-13T16:09:42 IST" finished-at="2020-08-13T16:09:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="HP()[pri:0, instance:com.automationFramework.testcases.HomePageTest@3159c4b8]" name="HP" is-config="true" duration-ms="17335" started-at="2020-08-13T16:09:43 IST" finished-at="2020-08-13T16:10:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HP -->
+        <test-method status="PASS" signature="clickoncalendar()[pri:4, instance:com.automationFramework.testcases.HomePageTest@3159c4b8]" name="clickoncalendar" duration-ms="1562" started-at="2020-08-13T16:10:00 IST" finished-at="2020-08-13T16:10:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickoncalendar -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.HomePageTest@3159c4b8]" name="close" is-config="true" duration-ms="678" started-at="2020-08-13T16:10:02 IST" finished-at="2020-08-13T16:10:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.automationFramework.testcases.HomePageTest -->
+      <class name="com.automationFramework.testcases.CalendarPageTest">
+        <test-method status="PASS" signature="calendarpage()[pri:0, instance:com.automationFramework.testcases.CalendarPageTest@69ea3742]" name="calendarpage" is-config="true" duration-ms="28917" started-at="2020-08-13T16:06:01 IST" finished-at="2020-08-13T16:06:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calendarpage -->
+        <test-method status="PASS" signature="userdpdwn()[pri:1, instance:com.automationFramework.testcases.CalendarPageTest@69ea3742]" name="userdpdwn" duration-ms="107" started-at="2020-08-13T16:06:30 IST" finished-at="2020-08-13T16:06:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userdpdwn -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.CalendarPageTest@69ea3742]" name="close" is-config="true" duration-ms="141" started-at="2020-08-13T16:06:30 IST" finished-at="2020-08-13T16:06:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="calendarpage()[pri:0, instance:com.automationFramework.testcases.CalendarPageTest@69ea3742]" name="calendarpage" is-config="true" duration-ms="20039" started-at="2020-08-13T16:06:30 IST" finished-at="2020-08-13T16:06:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calendarpage -->
+        <test-method status="PASS" signature="monthdd()[pri:2, instance:com.automationFramework.testcases.CalendarPageTest@69ea3742]" name="monthdd" duration-ms="1680" started-at="2020-08-13T16:06:50 IST" finished-at="2020-08-13T16:06:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- monthdd -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.CalendarPageTest@69ea3742]" name="close" is-config="true" duration-ms="92" started-at="2020-08-13T16:06:52 IST" finished-at="2020-08-13T16:06:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="calendarpage()[pri:0, instance:com.automationFramework.testcases.CalendarPageTest@69ea3742]" name="calendarpage" is-config="true" duration-ms="19262" started-at="2020-08-13T16:06:52 IST" finished-at="2020-08-13T16:07:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calendarpage -->
+        <test-method status="PASS" signature="yeardd()[pri:3, instance:com.automationFramework.testcases.CalendarPageTest@69ea3742]" name="yeardd" duration-ms="1426" started-at="2020-08-13T16:07:11 IST" finished-at="2020-08-13T16:07:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- yeardd -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automationFramework.testcases.CalendarPageTest@69ea3742]" name="close" is-config="true" duration-ms="91" started-at="2020-08-13T16:07:13 IST" finished-at="2020-08-13T16:07:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.automationFramework.testcases.CalendarPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

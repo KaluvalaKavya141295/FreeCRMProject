@@ -1,0 +1,12 @@
+com\automationFramework\ExtentReportListener\ExtentReporterNG.class
+com\automationFramework\pages\TasksPage.class
+com\automationFramework\util\TestUtil.class
+com\automationFramework\pages\DealsPage.class
+com\automationFramework\base\TestBase.class
+com\automationFramework\pages\CalendarPage.class
+com\automationFramework\pages\ContactsPage.class
+com\automationFramework\pages\CompaniesPage.class
+com\automationFramework\util\WebEventListener.class
+com\automationFramework\pages\HomePage.class
+com\automationFramework\pages\SignUPPage.class
+com\automationFramework\pages\LoginPage.class
